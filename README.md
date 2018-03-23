@@ -1,2 +1,2 @@
 # Translator
-Java program that checks if E code input is syntactically and semantically valid
+Java program that checks if E language code input is syntactically and semantically valid
