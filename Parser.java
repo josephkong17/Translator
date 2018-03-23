@@ -1,4 +1,4 @@
-/* *** This file is given as part of the programming assignment. *** */
+
 import java.util.*;
 
 
